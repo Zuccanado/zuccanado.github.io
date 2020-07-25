@@ -48,3 +48,13 @@ body {
 	right: 30px;
 	background: center/cover url("../assets/girl-right.png");
 }
+
+.game {
+	position: absolute;
+	width: 816px;
+	height: 624px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: none;
+}
